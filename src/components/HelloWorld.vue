@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
     <router-link to="/foo">Go to Foo</router-link>
-    <div>---------------</div>
     <router-link to="/bar">Go to Bar</router-link>
     <router-view></router-view>
   </div>
